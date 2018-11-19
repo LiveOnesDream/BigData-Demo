@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262ab072-3ceb-4001-8eda-0385f9f5cfe8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BigData_Demo$Excel2HBaseUtils.ic" NAME="Excel2HBaseUtils Coverage Results" MODIFIED="1541408112232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.IntelligenceAnalysis_kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$sparkReadHbaseData.ic" NAME="sparkReadHbaseData Coverage Results" MODIFIED="1539155811127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.it.spark.sparkToHbaseOperator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$ReadCSV2Mysql.ic" NAME="ReadCSV2Mysql Coverage Results" MODIFIED="1542179007777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$sparkReadHbaseData__1_.ic" NAME="sparkReadHbaseData (1) Coverage Results" MODIFIED="1539526698298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$Excel2HBaseUtils_v1.ic" NAME="Excel2HBaseUtils_v1 Coverage Results" MODIFIED="1541429629639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.IntelligenceAnalysis_kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$Spark2Mysql_T3.ic" NAME="Spark2Mysql_T3 Coverage Results" MODIFIED="1540257982914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.IntelligenceAnalysis_kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$SparkReadHBaseTest1.ic" NAME="SparkReadHBaseTest1 Coverage Results" MODIFIED="1537840655442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.it.spark.sparkToHbaseOperator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$hbaseOp02.ic" NAME="hbaseOp02 Coverage Results" MODIFIED="1539790903361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$billExcel.ic" NAME="billExcel Coverage Results" MODIFIED="1539181127513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$sparkReadCSV_v2.ic" NAME="sparkReadCSV_v2 Coverage Results" MODIFIED="1541146315473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BigData_Demo$hbaseOp.ic" NAME="hbaseOp Coverage Results" MODIFIED="1537512414952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kr.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BigData-Demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaseExcelService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/PaseExcelService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HbaseDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Dao/HbaseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="98" column="33" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaseExcel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/PaseExcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3625">
+              <caret line="155" column="29" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HandleFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/HandleFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1675">
+              <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/initialize/DataInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FileSplit</find>
+      <find>TimeS</find>
+      <find>getTime</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/ExcelUtils_T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/updateExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/insertdata_test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/insertdata.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/insertData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Excel2HBaseUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Excel2HBaseUtils_v1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/SplitFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Hbase/HBaseUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/moduleServiceImpl/billServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2HBase_T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2HBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/moduleServiceImpl/baseStationImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/GetNewInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/enums/ProductTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/BatchInsertData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/paseExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/HbaseDao/HbaseUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/moduleServiceImpl/billService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Dao/HbaseUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/ExcelService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/PaseExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/hbaseOp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/moduleServiceImpl/ticketImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/moduleServiceImpl/TicketServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/HandleFile.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/base.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/ReadMysqlBigTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/impl/PaseExcelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/PaseExcelService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/initialize/DataInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Service/PaseExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/Dao/HbaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr_V1/utils/ExcelUtils_T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2Mysql_T2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2Mysql_T3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_mysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2Mysql_T.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hive-site.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/sparkReadCSV_v1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/sparkReadCSV_v2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/ExcelConvertCSV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_MySQL/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_MySQL/DataInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_MySQL/GetTicketAndBaseStaion_tb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kr/ReadCSV2Mysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/PaseExcelService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Dao/HbaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/PaseExcel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="E:\tool\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BigData" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BigData" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BigData" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="536" />
+    <option name="y" value="136" />
+    <option name="width" value="1027" />
+    <option name="height" value="541" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BigData-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigData-Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigData-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigData-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigData-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigData-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigData-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigData-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigData-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigData-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigData-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigData-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/workSpace/BigData-Demo/src/main/java/com/RecordReader/MyRecordReader.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/parseJxTxt(jinping)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3048077" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workSpace\BigData-Demo\input" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.kr_V1.HbaseDao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workSpace\BigData-Demo\src\main\resources" />
+      <recent name="D:\workSpace\BigData-Demo\input" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kr" />
+      <recent name="com.IntelligenceAnalysis_kr" />
+      <recent name="com.kr_V1.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.SecondarySortMR" />
+      <recent name="com.mapreduce.join" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReadCSV2Mysql">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.StatisticAnalyze_MySQL.Application" />
+      <module name="BigData-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.StatisticAnalyze_MySQL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ExcelConvertCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kr.ExcelConvertCSV" />
+      <module name="BigData-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReadCSV2Mysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kr.ReadCSV2Mysql" />
+      <module name="BigData-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Spark2Mysql_T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IntelligenceAnalysis_kr.Spark2Mysql_T" />
+      <module name="BigData-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IntelligenceAnalysis_kr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="wordCount" />
+      <module name="BigData-Demo" />
+      <option name="PROGRAM_PARAMETERS" value="input/ output/" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="sparkReadCSV_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kr.sparkReadCSV_v2" />
+      <module name="BigData-Demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Spark2Mysql_T" />
+      <item itemvalue="Application.Application (1)" />
+      <item itemvalue="Application.sparkReadCSV_v2" />
+      <item itemvalue="Application.ReadCSV2Mysql" />
+      <item itemvalue="Application.ExcelConvertCSV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadCSV2Mysql" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.ExcelConvertCSV" />
+        <item itemvalue="Application.sparkReadCSV_v2" />
+        <item itemvalue="Application.Spark2Mysql_T" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262ab072-3ceb-4001-8eda-0385f9f5cfe8" name="Default" comment="" />
+      <created>1534493082163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534493082163</updated>
+      <workItem from="1534493085443" duration="5000000" />
+      <workItem from="1534601174897" duration="6582000" />
+      <workItem from="1534656331489" duration="1401000" />
+      <workItem from="1534727815156" duration="17094000" />
+      <workItem from="1534747893848" duration="2257000" />
+      <workItem from="1534813676328" duration="313000" />
+      <workItem from="1534814048054" duration="6192000" />
+      <workItem from="1534820344970" duration="13645000" />
+      <workItem from="1534899763795" duration="10264000" />
+      <workItem from="1534986051665" duration="4112000" />
+      <workItem from="1535072695476" duration="1081000" />
+      <workItem from="1535073936257" duration="1126000" />
+      <workItem from="1535076259975" duration="6037000" />
+      <workItem from="1535332462804" duration="3476000" />
+      <workItem from="1535340341563" duration="604000" />
+      <workItem from="1535373801761" duration="2702000" />
+      <workItem from="1535418291940" duration="602000" />
+      <workItem from="1535419711233" duration="9119000" />
+      <workItem from="1535464952775" duration="1698000" />
+      <workItem from="1535504384509" duration="12592000" />
+      <workItem from="1535556404839" duration="3427000" />
+      <workItem from="1535591449858" duration="6964000" />
+      <workItem from="1535938033827" duration="17140000" />
+      <workItem from="1535985079598" duration="6386000" />
+      <workItem from="1536023730655" duration="14042000" />
+      <workItem from="1536069517838" duration="4107000" />
+      <workItem from="1536134454297" duration="2049000" />
+      <workItem from="1536157758784" duration="2310000" />
+      <workItem from="1536197080220" duration="4546000" />
+      <workItem from="1536226603007" duration="14000" />
+      <workItem from="1536243947930" duration="5193000" />
+      <workItem from="1536282768182" duration="588000" />
+      <workItem from="1536329539665" duration="7910000" />
+      <workItem from="1536586803487" duration="2539000" />
+      <workItem from="1536674018955" duration="1196000" />
+      <workItem from="1536758569874" duration="5598000" />
+      <workItem from="1536846762837" duration="6700000" />
+      <workItem from="1536890996093" duration="10443000" />
+      <workItem from="1536935497850" duration="4861000" />
+      <workItem from="1537111606182" duration="710000" />
+      <workItem from="1537146942757" duration="19816000" />
+      <workItem from="1537179804232" duration="7375000" />
+      <workItem from="1537233164331" duration="24550000" />
+      <workItem from="1537276942977" duration="6494000" />
+      <workItem from="1537285415475" duration="1350000" />
+      <workItem from="1537286950759" duration="225000" />
+      <workItem from="1537287243901" duration="479000" />
+      <workItem from="1537287787419" duration="482000" />
+      <workItem from="1537288316286" duration="210000" />
+      <workItem from="1537288599726" duration="759000" />
+      <workItem from="1537320201582" duration="19281000" />
+      <workItem from="1537364569780" duration="6483000" />
+      <workItem from="1537406176311" duration="14050000" />
+      <workItem from="1537448214066" duration="591000" />
+      <workItem from="1537492370930" duration="15247000" />
+      <workItem from="1537512713311" duration="1919000" />
+      <workItem from="1537515202439" duration="7046000" />
+      <workItem from="1537838552852" duration="2148000" />
+      <workItem from="1537840771374" duration="17363000" />
+      <workItem from="1537883360728" duration="7317000" />
+      <workItem from="1537924403840" duration="21039000" />
+      <workItem from="1537967354526" duration="8460000" />
+      <workItem from="1538010249124" duration="18667000" />
+      <workItem from="1538040168506" duration="735000" />
+      <workItem from="1538055614361" duration="5038000" />
+      <workItem from="1538098253732" duration="10483000" />
+      <workItem from="1538117731011" duration="2990000" />
+      <workItem from="1538120787828" duration="3834000" />
+      <workItem from="1538145252270" duration="3446000" />
+      <workItem from="1538183853036" duration="6263000" />
+      <workItem from="1538193184774" duration="2889000" />
+      <workItem from="1538231378297" duration="2948000" />
+      <workItem from="1538961486913" duration="5231000" />
+      <workItem from="1539006511686" duration="4014000" />
+      <workItem from="1539010721846" duration="86000" />
+      <workItem from="1539052660749" duration="5131000" />
+      <workItem from="1539134217018" duration="15203000" />
+      <workItem from="1539156426473" duration="10790000" />
+      <workItem from="1539177759962" duration="2804000" />
+      <workItem from="1539180656297" duration="6125000" />
+      <workItem from="1539220107044" duration="28673000" />
+      <workItem from="1539257576853" duration="9944000" />
+      <workItem from="1539306880771" duration="14654000" />
+      <workItem from="1539522943755" duration="9054000" />
+      <workItem from="1539566176587" duration="24748000" />
+      <workItem from="1539652712124" duration="22498000" />
+      <workItem from="1539698378378" duration="5482000" />
+      <workItem from="1539704723270" duration="2579000" />
+      <workItem from="1539741767909" duration="11078000" />
+      <workItem from="1539761498168" duration="8464000" />
+      <workItem from="1539783168972" duration="12864000" />
+      <workItem from="1539826081722" duration="23279000" />
+      <workItem from="1539871474624" duration="5557000" />
+      <workItem from="1539911819998" duration="24599000" />
+      <workItem from="1539955267960" duration="9280000" />
+      <workItem from="1540002644751" duration="20653000" />
+      <workItem from="1540038487910" duration="7118000" />
+      <workItem from="1540171148083" duration="25081000" />
+      <workItem from="1540212315875" duration="6504000" />
+      <workItem from="1540257289572" duration="16948000" />
+      <workItem from="1540344238642" duration="2421000" />
+      <workItem from="1540351116171" duration="601000" />
+      <workItem from="1540365945180" duration="5139000" />
+      <workItem from="1540388294213" duration="10428000" />
+      <workItem from="1540430075027" duration="19599000" />
+      <workItem from="1540516330249" duration="10174000" />
+      <workItem from="1540775298168" duration="20212000" />
+      <workItem from="1540820953344" duration="3713000" />
+      <workItem from="1540861628764" duration="17390000" />
+      <workItem from="1540908312717" duration="4923000" />
+      <workItem from="1540947951002" duration="15966000" />
+      <workItem from="1540990682299" duration="586000" />
+      <workItem from="1540991320107" duration="8432000" />
+      <workItem from="1541034731440" duration="7945000" />
+      <workItem from="1541053983347" duration="11429000" />
+      <workItem from="1541065914693" duration="305000" />
+      <workItem from="1541079113738" duration="8084000" />
+      <workItem from="1541120759616" duration="19587000" />
+      <workItem from="1541167049755" duration="10896000" />
+      <workItem from="1541381047055" duration="15251000" />
+      <workItem from="1541424459505" duration="7121000" />
+      <workItem from="1541466574504" duration="6428000" />
+      <workItem from="1541473968747" duration="17542000" />
+      <workItem from="1541553085699" duration="18256000" />
+      <workItem from="1541598015983" duration="5909000" />
+      <workItem from="1541639675238" duration="29558000" />
+      <workItem from="1541688173822" duration="4262000" />
+      <workItem from="1541725924847" duration="21676000" />
+      <workItem from="1541767804533" duration="5585000" />
+      <workItem from="1541857441295" duration="3160000" />
+      <workItem from="1541985203267" duration="18201000" />
+      <workItem from="1542010429969" duration="6988000" />
+      <workItem from="1542029442713" duration="3355000" />
+      <workItem from="1542071524948" duration="21451000" />
+      <workItem from="1542114024871" duration="11591000" />
+      <workItem from="1542157639769" duration="23750000" />
+      <workItem from="1542203022262" duration="925000" />
+      <workItem from="1542252654545" duration="8965000" />
+      <workItem from="1542454765930" duration="7130000" />
+      <workItem from="1542590395169" duration="5978000" />
+      <workItem from="1542632309856" duration="2661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1214611000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32715008" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.29173693" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.4979424" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07757167" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32715008" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13153458" visible="true" weight="0.19969743" />
+      <window_info anchor="right" id="Bean Validation" order="0" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info id="Structure" order="1" sideWeight="0.8684654" side_tool="true" weight="0.22239032" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.23434992" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.69814503" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Module Dependencies" order="10" weight="0.32980332" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5020576" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32715008" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16863406" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5020576" side_tool="true" weight="0.32980332" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32715008" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3288364" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.27150086" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13153458" visible="true" weight="0.25718608" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32715008" />
+      <window_info anchor="right" id="Module Dependencies" order="11" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.4979424" weight="0.32980332" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.8684654" side_tool="true" weight="0.22239032" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3288364" />
+      <window_info anchor="right" id="Bean Validation" order="0" weight="0.32980332" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.14165261" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="162" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>rootrow.getLastCellNum()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>DataInit.HBASE_TABLE</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resDT.write.mode(SaveMode.Append).jdbc(ticketURL, s_base_station, properties)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.put(putLists)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonArray1.getJSONObject(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Long.valueOf(row1.getAs(&quot;other_number&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stmt.setLong(13, Long.valueOf(row1.getAs(&quot;other_number&quot;)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stmt.setLong(13, Long.valueOf(row1.getAs(&quot;other_number&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row1.getAs(&quot;other_number&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar!/scala/reflect/runtime/SynchronizedSymbols.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/sparkReadCSV_v2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="67" column="33" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/ReadMysqlBigTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/SplitFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/updateExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="134" column="34" lean-forward="true" selection-start-line="134" selection-start-column="34" selection-end-line="134" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Excel2HBaseUtils_v1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2246">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2HBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="142" column="56" lean-forward="true" selection-start-line="142" selection-start-column="56" selection-end-line="142" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2HBase_T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="153" column="53" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2Mysql_T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4975">
+          <caret line="215" column="36" selection-start-line="215" selection-start-column="36" selection-end-line="215" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2Mysql_T2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2446">
+          <caret line="78" column="46" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Spark2Mysql_T3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1517">
+          <caret line="167" column="37" lean-forward="true" selection-start-line="167" selection-start-column="37" selection-end-line="167" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="53" selection-start-line="53" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/hbaseOp03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/it/spark/AvgAgeCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/it/spark/OperatorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/it/spark/sparkToHbaseOperator/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2621">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/it/spark/sparkToHbaseOperator/SparkReadjsonToDataDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/it/spark/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/BlukLoadData2Hbase/GenerateHFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Config.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/billExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2757">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/ExcelConvertCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/ExcelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.2/spark-sql_2.11-2.1.2-sources.jar!/org/apache/spark/sql/execution/datasources/jdbc/JdbcUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="577" column="8" selection-start-line="577" selection-start-column="8" selection-end-line="577" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.2/spark-core_2.11-2.1.2-sources.jar!/org/apache/spark/api/java/JavaPairRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="1039" column="84" selection-start-line="1039" selection-start-column="84" selection-end-line="1039" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.2/spark-sql_2.11-2.1.2-sources.jar!/org/apache/spark/sql/execution/SparkPlan.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="233" column="8" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0-sources.jar!/net/jpountz/util/SafeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0-sources.jar!/net/jpountz/lz4/LZ4BlockOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.2/spark-catalyst_2.11-2.1.2-sources.jar!/org/apache/spark/sql/catalyst/expressions/UnsafeRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="553" selection-start-line="553" selection-end-line="553" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/ExcelUtils_T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-725">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/hbaseOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="139" column="18" selection-start-line="131" selection-start-column="3" selection-end-line="146" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_MySQL/DataInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kr/ReadCSV2Mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/Excel2HBaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="97" column="40" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/IntelligenceAnalysis_kr/ExcelUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="105" column="19" lean-forward="true" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_MySQL/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/StatisticAnalyze_MySQL/GetTicketAndBaseStaion_tb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/HandleFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/MrPaseFileToHbase/Table2other.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/BlukLoadData2Hbase/LoadIncrementalHFileToHBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/BlukLoadData2Hbase/GenerateHFileMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/RecordReader1/MyRecordReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TwoDataSourcesAreAssociatedMR/Sync2HBaseJob.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SecondarySortMR/SecondarySorteMapReuce.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Dao/HbaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="98" column="33" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/it/spark/DataFileGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/PaseExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3625">
+          <caret line="155" column="29" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/initialize/DataInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PaseExcel2HBASE/Service/PaseExcelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3048077" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.51284915" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BigData-Demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3048077" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: xom:xom:1.2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.51284915" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
